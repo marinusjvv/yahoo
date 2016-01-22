@@ -15,7 +15,8 @@
   },
   "autoload": {
     "psr-4": {
-      "MarinusJvv\\Yahoo\\": "src"
+      "MarinusJvv\\Yahoo\\": "src",
+      "MarinusJvv\\Tests\\": "tests"
     }
   }
 }
